@@ -11,6 +11,6 @@ This folder contains the functions to:
 4) Implementation_example --> Script with an example of the use of both functions. 
 
 
-For more information and citations see the pre-print:
-Martín, Ariadna and Wahl, Thomas and Rodriguez Enriquez, Alejandra and Jane, Robert, Storm Surge Time Series De-Clustering Using Correlation Analysis. Available at SSRN: https://ssrn.com/abstract=4705462 or http://dx.doi.org/10.2139/ssrn.4705462
+For more information and citations:
+Martín, Ariadna and Wahl, Thomas and Rodriguez Enriquez, Alejandra and Jane, Robert, Storm Surge Time Series De-Clustering Using Correlation Analysis. Available at: https://doi.org/10.1016/j.wace.2024.100701 
 ![image](https://github.com/AriadnaMartin98/De-clustering_method/assets/111310805/7e7838cd-6188-4763-9c9e-729596851d46)
